@@ -1,0 +1,7 @@
+{
+  "name": "Parcial3IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
